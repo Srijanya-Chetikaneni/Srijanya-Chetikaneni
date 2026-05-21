@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Srijanya Chetikaneni 👋</h1>
 
 <p align="center">
-  <b>Data Analyst</b> · Irving, TX · Ex-Tata Consultancy Services · STEM OPT (3-yr Work Auth)
+  <b>Data Analyst</b> · Irving, TX · Ex-Tata Consultancy Services 
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ Using **Difference-in-Differences** on 260,000+ transactions, I isolated the tru
 
 ---
 
-### 🎵 [Chinook Sales & Revenue Analytics](https://github.com/srijanyarao/chinook-sales-analysis)
+### 🎵 [Digital Media Sales Analytics](https://github.com/srijanyarao/chinook-sales-analysis)
 > End-to-end SQL analysis of sales performance, customer behavior, and revenue trends across a digital music platform.
 
 Answered business questions across revenue by geography, top-performing genres/artists, and customer purchase patterns using advanced SQL CTEs, window functions, and multi-table joins.

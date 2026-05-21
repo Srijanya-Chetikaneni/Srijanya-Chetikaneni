@@ -19,7 +19,7 @@
 
 ## 🔍 About Me
 
-I'm a data analyst with **1.5+ years of professional experience** turning messy data into decisions that matter.
+I'm a data analyst with **2 years of professional experience** turning messy data into decisions that matter.
 
 At **Tata Consultancy Services**, I optimized 100+ SQL queries reducing processing latency by **17%** and improved reporting accuracy by **22%** through automated data validation pipelines.
 

@@ -23,9 +23,9 @@ I'm a data analyst with **1.5+ years of professional experience** turning messy 
 
 At **Tata Consultancy Services**, I optimized 100+ SQL queries reducing processing latency by **17%** and improved reporting accuracy by **22%** through automated data validation pipelines.
 
-Most recently, I built a retail A/B testing analysis across **260,000+ transactions** using Difference-in-Differences methodology — uncovering a **13.9% true sales lift** vs. a naive 20% estimate driven by seasonality bias.
+Most recently, I built a retail A/B testing analysis across **260,000+ transactions** using Difference-in-Differences methodology uncovering a **13.9% true sales lift** vs. a naive 20% estimate driven by seasonality bias.
 
-I care about **the question behind the query** — not just what the data says, but what decision it enables.
+I care about **the question behind the query** not just what the data says, but what decision it enables.
 
 - 🌎 Open to **Data Analyst roles across the USA** (remote-first or on-site)
 - 🛂 **STEM OPT** 3-year US work authorization, available immediately
@@ -70,7 +70,7 @@ I care about **the question behind the query** — not just what the data says, 
 
 Using **Difference-in-Differences** on 260,000+ transactions, I isolated the true causal effect by controlling for seasonality and selection bias across treatment vs. control stores.
 
-**Key finding:** Naive before/after comparisons overstated impact by 6+ percentage points — enough to change capital allocation decisions at scale.
+**Key finding:** Naive before/after comparisons overstated impact by 6+ percentage points enough to change capital allocation decisions at scale.
 
 `Python` `Pandas` `Statsmodels` `Matplotlib` `Causal Inference` `DiD`
 
@@ -79,7 +79,7 @@ Using **Difference-in-Differences** on 260,000+ transactions, I isolated the tru
 ### 🎵 [Chinook Sales & Revenue Analytics](https://github.com/srijanyarao/chinook-sales-analysis)
 > End-to-end SQL analysis of sales performance, customer behavior, and revenue trends across a digital music platform.
 
-Answered business questions across revenue by geography, top-performing genres/artists, and customer purchase patterns using advanced SQL — CTEs, window functions, and multi-table joins.
+Answered business questions across revenue by geography, top-performing genres/artists, and customer purchase patterns using advanced SQL CTEs, window functions, and multi-table joins.
 
 `SQL` `CTEs` `Window Functions` `Business Intelligence` `Data Storytelling`
 

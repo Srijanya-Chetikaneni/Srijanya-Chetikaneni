@@ -28,7 +28,6 @@ Most recently, I built a retail A/B testing analysis across **260,000+ transacti
 I care about **the question behind the query** not just what the data says, but what decision it enables.
 
 - 🌎 Open to **Data Analyst roles across the USA** (remote-first or on-site)
-- 🛂 **STEM OPT** 3-year US work authorization, available immediately
 - 📚 Currently learning: **Power BI** + advanced causal inference methods
 - 💬 Ask me about: SQL optimization, A/B testing, ETL pipelines, Tableau
 
